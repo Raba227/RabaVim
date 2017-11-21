@@ -1,0 +1,31 @@
+if !has('gui_running')
+  finish
+endif
+
+"カラースキーマの設定
+colorscheme sorcerer
+set background=dark
+
+"フォントの設定
+set guifont=MyricaM_M:h12
+
+" メニューバーを非表示にする
+set guioptions-=m
+
+" ツールバーを非表示にする
+set guioptions-=T
+
+" 左右のスクロールバーを非表示にする
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
+
+" 水平スクロールバーを非表示にする
+set guioptions-=b
+
+"ビープ音を無効にする
+set visualbell t_vb=
+
+"どのモードでもマウスを利用できるようにする
+set mouse=a
