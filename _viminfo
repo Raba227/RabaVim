@@ -1,0 +1,1403 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0/=
+
+# 最後の Substitute 検索パターン:
+~MSle0~&Items
+
+# 最後に置換された文字列:
+$Item
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q!
+|2,0,1511258692,,"q!"
+:q
+|2,0,1511258688,,"q"
+:wq
+|2,0,1511258683,,"wq"
+:w
+|2,0,1511257866,,"w"
+:nohlsearch
+|2,0,1511245412,,"nohlsearch"
+:%s/Items/Item/gc
+|2,0,1511245401,,"%s/Items/Item/gc"
+:s/Items/Item/gc
+|2,0,1511245237,,"s/Items/Item/gc"
+:ls
+|2,0,1511167175,,"ls"
+:b1
+|2,0,1511160749,,"b1"
+:sp
+|2,0,1511160735,,"sp"
+:g/=/ norm Ientity.
+|2,0,1511160019,,"g/=/ norm Ientity."
+:g/=/ normal ^d2w
+|2,0,1511159920,,"g/=/ normal ^d2w"
+:g/entity/ normal Ientity
+|2,0,1511159806,,"g/entity/ normal Ientity"
+:g/=/^entity
+|2,0,1511159685,,"g/=/^entity"
+:%s/entitiy/entity/g
+|2,0,1511159628,,"%s/entitiy/entity/g"
+:%s@//@@g
+|2,0,1511158123,,"%s@//@@g"
+:g@//@d
+|2,0,1511158063,,"g@//@d"
+:%s/,"/,\r"/g
+|2,0,1511156963,,"%s/,\"/,\\r\"/g"
+:%s/,"/,\r":g
+|2,0,1511156887,,"%s/,\"/,\\r\":g"
+:PrevimOpen
+|2,0,1510881462,,"PrevimOpen"
+:%s/フォーム/フィールド/g
+|2,0,1510646221,,"%s/フォーム/フィールド/g"
+:previmOpen
+|2,0,1510643446,,"previmOpen"
+:tabnew test.html
+|2,0,1510643388,,"tabnew test.html"
+:1
+|2,0,1510639802,,"1"
+:pwd
+|2,0,1510048447,,"pwd"
+:set enc?
+|2,0,1510042905,,"set enc?"
+:s/---/:---:/g
+|2,0,1510031685,,"s/---/:---:/g"
+:gP
+|2,0,1510031272,,"gP"
+:wq!
+|2,0,1510031102,,"wq!"
+:%s/  * /    * /g
+|2,0,1510029677,,"%s/  * /    * /g"
+:%s/  */    */gc
+|2,0,1510029550,,"%s/  */    */gc"
+:%s/  */    */g
+|2,0,1510029503,,"%s/  */    */g"
+:%s@</d[dt]>@@g
+|2,0,1509963081,,"%s@</d[dt]>@@g"
+:%s@</d[td]>@aaaa@
+|2,0,1509963039,,"%s@</d[td]>@aaaa@"
+:%s@</dt>@aaaa@
+|2,0,1509963027,,"%s@</dt>@aaaa@"
+:%s@dt@aaaa@
+|2,0,1509963006,,"%s@dt@aaaa@"
+:%s@/gt@aaaa@
+|2,0,1509962996,,"%s@/gt@aaaa@"
+:%s/<dd>/  * /g
+|2,0,1509962939,,"%s/<dd>/  * /g"
+:%s/<dt>/* /g
+|2,0,1509962895,,"%s/<dt>/* /g"
+:g/dl/d
+|2,0,1509962857,,"g/dl/d"
+:v/dl/d
+|2,0,1509962845,,"v/dl/d"
+:help global
+|2,0,1509962780,,"help global"
+:o
+|2,0,1509961195,,"o"
+:help
+|2,0,1509961121,,"help"
+:e .
+|2,0,1509960739,,"e ."
+:e ++enc=utf-8
+|2,0,1509960253,,"e ++enc=utf-8"
+:set fileencoding=utf-8
+|2,0,1509960184,,"set fileencoding=utf-8"
+:set fileencoding?
+|2,0,1509960156,,"set fileencoding?"
+:set fileencoding=?
+|2,0,1509960140,,"set fileencoding=?"
+:set fenc=utf-8
+|2,0,1509960110,,"set fenc=utf-8"
+:set fenc=?
+|2,0,1509960102,,"set fenc=?"
+:Bookmark
+|2,0,1509960076,,"Bookmark"
+:bookmark
+|2,0,1509960072,,"bookmark"
+:set encoding?
+|2,0,1509960701,,"set encoding?"
+:tabe
+|2,0,1509960685,,"tabe"
+:set encoding=utf-8
+|2,0,1509960626,,"set encoding=utf-8"
+:set encoding=cp932
+|2,0,1509960596,,"set encoding=cp932"
+:a!
+|2,0,1509960518,,"a!"
+:ene
+|2,0,1509960464,,"ene"
+:vsp
+|2,0,1509960462,,"vsp"
+:encoding=cp932
+|2,0,1509960346,,"encoding=cp932"
+:so %
+|2,0,1509960329,,"so %"
+:%s/?G???[???b?Z?[?W/?G???[???b?Z?[?W?d?o??・?邱?A/
+|2,0,1509958785,,"%s/?G???[???b?Z?[?W/?G???[???b?Z?[?W?d?o??・?邱?A/"
+:%s/?`?F?b?N???X?g/?`?F?b?N?{?b?N?X????/g
+|2,0,1509958521,,"%s/?`?F?b?N???X?g/?`?F?b?N?{?b?N?X????/g"
+:%s/?{?b?N?X????/???X?g/g
+|2,0,1509958492,,"%s/?{?b?N?X????/???X?g/g"
+:s/|/ /g
+|2,0,1509957908,,"s/|/ /g"
+:%s/|/ /gc
+|2,0,1509957857,,"%s/|/ /gc"
+:2,29s/|/ /g
+|2,0,1509957839,,"2,29s/|/ /g"
+:%s/""/ /g
+|2,0,1509957185,,"%s/\"\"/ /g"
+:%s/","/ | /g
+|2,0,1509957054,,"%s/\",\"/ | /g"
+:edit
+|2,0,1509956128,,"edit"
+:elseh
+|2,0,1509956092,,"elseh"
+:!dir
+|2,0,1509956057,,"!dir"
+:set nocp
+|2,0,1509956047,,"set nocp"
+:help user-manual
+|2,0,1509956004,,"help user-manual"
+:set noic
+|2,0,1509955933,,"set noic"
+:set hls is
+|2,0,1509955835,,"set hls is"
+:set ic
+|2,0,1509955804,,"set ic"
+:r TEST
+|2,0,1509955435,,"r TEST"
+:'<,'>w TEST
+|2,0,1509955394,,"'<,'>w TEST"
+:!del TEST
+|2,0,1509955326,,"!del TEST"
+:w TEST
+|2,0,1509955312,,"w TEST"
+:!ls
+|2,0,1509955215,,"!ls"
+:%s/thee/the/gc
+|2,0,1509955136,,"%s/thee/the/gc"
+:s/thee/the/g|
+|2,0,1509955112,,"s/thee/the/g|"
+:s/th
+|2,0,1509955101,,"s/th"
+:s/thee/the/g!
+|2,0,1509955048,,"s/thee/the/g!"
+:s/thee/the
+|2,0,1509954993,,"s/thee/the"
+:973G
+|2,0,1509954809,,"973G"
+:Tutorial
+|2,0,1509953638,,"Tutorial"
+:vimtutor
+|2,0,1509953635,,"vimtutor"
+:tutorial
+|2,0,1509953391,,"tutorial"
+:%s/(1)/<dt>
+|2,0,1509949392,,"%s/(1)/<dt>"
+:file
+|2,0,1509947522,,"file"
+:tabnew test.md
+|2,0,1509946046,,"tabnew test.md"
+:!q
+|2,0,1509944349,,"!q"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? Items
+|2,1,1511245401,,"Items"
+? =
+|2,1,1511160019,,"="
+? entity
+|2,1,1511159806,,"entity"
+? entitiy
+|2,1,1511159628,,"entitiy"
+? \<jellyx\>
+|2,1,1511159499,,"\\<jellyx\\>"
+? //
+|2,1,1511158123,,"//"
+?//
+|2,1,1511157926,47,"/"
+? ,"
+|2,1,1511156963,,",\""
+? \$\(cursor\|select\)\$
+|2,1,1511155600,,"\\$\\(cursor\\|select\\)\\$"
+? \<プロパティ\>
+|2,1,1510648548,,"\\<プロパティ\\>"
+? フォーム
+|2,1,1510646221,,"フォーム"
+? \<指定\>
+|2,1,1510645117,,"\\<指定\\>"
+? \<編集時\>
+|2,1,1510644808,,"\\<編集時\\>"
+?/catalog_id
+|2,1,1510636125,47,"catalog_id"
+?/get
+|2,1,1510632932,47,"get"
+?/Load
+|2,1,1510048386,47,"Load"
+?/LordModule
+|2,1,1510048370,47,"LordModule"
+?/ServerName
+|2,1,1510048268,47,"ServerName"
+?/#Ser
+|2,1,1510048076,47,"#Ser"
+?/<Director
+|2,1,1510041034,47,"<Director"
+?/User daemon
+|2,1,1510040983,47,"User daemon"
+?/loadModule
+|2,1,1510040869,47,"loadModule"
+?/nohlsearch
+|2,1,1510031694,47,"nohlsearch"
+? ---
+|2,1,1510031685,,"---"
+?   * 
+|2,1,1510029677,,"  * "
+?   *
+|2,1,1510029550,,"  *"
+?/nohosearch
+|2,1,1510029480,47,"nohosearch"
+? </d[dt]>
+|2,1,1509963081,,"</d[dt]>"
+? </d[td]>
+|2,1,1509963039,,"</d[td]>"
+? </dt>
+|2,1,1509963027,,"</dt>"
+? dt
+|2,1,1509963006,,"dt"
+? /gt
+|2,1,1509962996,,"/gt"
+? <dd>
+|2,1,1509962939,,"<dd>"
+? <dt>
+|2,1,1509962895,,"<dt>"
+? dl
+|2,1,1509962857,,"dl"
+?/rena
+|2,1,1509961036,47,"rena"
+?/if
+|2,1,1509960873,47,"if"
+? @$
+|2,1,1509960742,,"@$"
+? ?G???[???b?Z?[?W
+|2,1,1509958785,,"?G???[???b?Z?[?W"
+? ?`?F?b?N???X?g
+|2,1,1509958521,,"?`?F?b?N???X?g"
+? ?{?b?N?X????
+|2,1,1509958492,,"?{?b?N?X????"
+? |
+|2,1,1509957908,,"|"
+? ""
+|2,1,1509957185,,"\"\""
+? ","
+|2,1,1509957054,,"\",\""
+? \<???X?g\>
+|2,1,1509956726,,"\\<???X?g\\>"
+?/ignore
+|2,1,1509955847,47,"ignore"
+? thee
+|2,1,1509955136,,"thee"
+??errroor
+|2,1,1509954882,63,"errroor"
+?/errroor
+|2,1,1509954853,47,"errroor"
+? \<Users\>
+|2,1,1509953393,,"\\<Users\\>"
+? \<異常�
+|2,1,1509950198,,"\\<異常�"
+? (1)
+|2,1,1509949392,,"(1)"
+? \<エラーメ�
+|2,1,1509949213,,"\\<エラーメ�"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+@C:\Nishimura\Adobe_target_new.md
+|2,3,1511155896,,"C:\\Nishimura\\Adobe_target_new.md"
+@C:\Nishimura\Adobe_target.md
+|2,3,1511155818,,"C:\\Nishimura\\Adobe_target.md"
+@C:\Nishimura\浅尾塾\excel-csv変換(utf-8).md
+|2,3,1510035741,,"C:\\Nishimura\\浅尾塾\\excel-csv変換(utf-8).md"
+@C:\Users\nishimura\Desktop\emmet_test.html
+|2,3,1510030434,,"C:\\Users\\nishimura\\Desktop\\emmet_test.html"
+@C:\Nishimura\design_specifications\components\filter_table\test_case.md
+|2,3,1509961307,,"C:\\Nishimura\\design_specifications\\components\\filter_table\\test_case.md"
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	        for (Map.Entry<String, String> pimItem: pimItems.entrySet())
+	        {
+	            pimItems.put(pimItem.getKey(), getOutputString(slingRequest, currentPage, pimItem.getKey(), pimItem.getValue(), i18n, i18nUi));
+	        }
+|3,0,0,1,4,0,1511256065,"        for (Map.Entry<String, String> pimItem: pimItems.entrySet())","        {","            pimItems.put(pimItem.getKey(), getOutputString(slingRequest, currentPage, pimItem.getKey(), pimItem.getValue(), i18n, i18nUi));","        }"
+"1	LINE	0
+	        
+|3,0,1,1,1,0,1511257380,"        "
+"2	LINE	0
+	            jsonData.put("entitiy."+item.getKey(),'"'+item.getValue()+'"');
+|3,0,2,1,1,0,1511257053,"            jsonData.put(\"entitiy.\"+item.getKey(),'\"'+item.getValue()+'\"');"
+"3	LINE	0
+	    Map<String, String> jsonData = new LinkedHashMap<String, String>();
+|3,0,3,1,1,0,1511257020,"    Map<String, String> jsonData = new LinkedHashMap<String, String>();"
+"4	LINE	0
+	    //
+|3,0,4,1,1,0,1511256070,"    //"
+"5	LINE	0
+	    } catch (PimFieldNotFoundExcepiton e) {
+|3,0,5,1,1,0,1511255998,"    } catch (PimFieldNotFoundExcepiton e) {"
+"6	LINE	0
+	        }
+|3,0,6,1,1,0,1511255996,"        }"
+"7	LINE	0
+	
+|3,0,7,1,1,0,1511255516,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1511255516,""
+"9	LINE	0
+	
+|3,0,9,1,1,0,1511255492,""
+""-	CHAR	0
+	]
+|3,1,36,0,1,0,1511257504,"]"
+
+# ファイルマーク:
+'0  79  44  ~\_vimrc
+|4,48,79,44,1511258945,"~\\_vimrc"
+'1  138  8  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,49,138,8,1511258692,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+'2  6  19  ~\_gvimrc
+|4,50,6,19,1511249092,"~\\_gvimrc"
+'3  6  19  ~\_gvimrc
+|4,51,6,19,1511249092,"~\\_gvimrc"
+'4  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,52,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+'5  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,53,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+'6  6  19  ~\_gvimrc
+|4,54,6,19,1511249024,"~\\_gvimrc"
+'7  6  19  ~\_gvimrc
+|4,55,6,19,1511249024,"~\\_gvimrc"
+'8  30  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,56,30,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+'9  30  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,57,30,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+
+# ジャンプリスト (新しいものが先):
+-'  79  44  ~\_vimrc
+|4,39,79,44,1511258945,"~\\_vimrc"
+-'  107  0  ~\_viminfo
+|4,39,107,0,1511258940,"~\\_viminfo"
+-'  31  10  ~\_gvimrc
+|4,39,31,10,1511258929,"~\\_gvimrc"
+-'  1  0  ~\_gvimrc
+|4,39,1,0,1511258884,"~\\_gvimrc"
+-'  138  8  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,138,8,1511258692,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  138  8  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,138,8,1511258692,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  109  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,109,0,1511258297,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  109  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,109,0,1511258297,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  107  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,107,0,1511256043,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  107  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,107,0,1511256043,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,271,0,1511255989,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,271,0,1511255989,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  39  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,39,0,1511249398,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  39  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,39,0,1511249398,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  50  35  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,50,35,1511249278,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  50  35  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,50,35,1511249278,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  ~\NERD_tree_1
+|4,39,1,0,1511249129,"~\\NERD_tree_1"
+-'  1  0  ~\NERD_tree_1
+|4,39,1,0,1511249129,"~\\NERD_tree_1"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\design_dialog.xml
+|4,39,1,0,1511249094,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\design_dialog.xml"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\design_dialog.xml
+|4,39,1,0,1511249094,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\design_dialog.xml"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249092,"~\\_gvimrc"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249092,"~\\_gvimrc"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249092,"~\\_gvimrc"
+-'  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  13  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,13,0,1511249076,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,1,0,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  31  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,31,31,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,1,0,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  37  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,37,31,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,1,0,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  37  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,37,31,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,1,0,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  31  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,31,31,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,1,0,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  37  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,37,31,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+|4,39,1,0,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\json_for_adobe_target\\json_for_adobe_target.jsp"
+-'  37  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,37,31,1511249067,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,1,0,1511249055,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,1,0,1511249055,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,1,0,1511249055,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,1,0,1511249055,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,1,0,1511249055,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  1  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,1,0,1511249055,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249024,"~\\_gvimrc"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249024,"~\\_gvimrc"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249024,"~\\_gvimrc"
+-'  6  19  ~\_gvimrc
+|4,39,6,19,1511249024,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  15  26  ~\_gvimrc
+|4,39,15,26,1511249013,"~\\_gvimrc"
+-'  30  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,30,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  30  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,30,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  36  31  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,36,31,1511248985,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  271  0  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,271,0,1511246837,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  143  29  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,143,29,1511246836,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  23  1  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,23,1,1511246712,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  23  1  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,23,1,1511246712,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  23  1  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,23,1,1511246712,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+-'  23  1  C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+|4,39,23,1,1511246712,"C:\\Nishimura\\pscom\\workspace\\ui.apps\\src\\main\\content\\jcr_root\\apps\\pscom\\components\\catalog\\adobe_target_recommendations\\adobe_target_recommendations.jsp"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~\_vimrc
+	*	1511258944	0
+	"	79	44
+	^	72	12
+	.	111	0
+	+	1	0
+	+	1	32
+	+	1	16
+	+	1	0
+	+	2	0
+	+	1	0
+	+	13	17
+	+	97	0
+	+	18	31
+	+	50	46
+	+	111	1
+	+	26	4
+	+	72	12
+	+	111	0
+
+> C:\WINDOWS\system32\NERD_tree_1
+	*	1511258943	0
+	"	36	0
+	.	1	0
+	+	1	0
+
+> ~\_viminfo
+	*	1511258939	0
+	"	107	0
+
+> ~\_gvimrc
+	*	1511258923	0
+	"	31	10
+	^	6	20
+	.	6	19
+	+	10	24
+	+	13	0
+	+	16	0
+	+	19	0
+	+	20	1
+	+	13	0
+	+	10	0
+	+	8	0
+	+	6	23
+	+	6	18
+	+	7	0
+	+	6	17
+	+	32	0
+	+	6	19
+
+> C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\json_for_adobe_target\json_for_adobe_target.jsp
+	*	1511258688	0
+	"	138	8
+	.	76	0
+	+	66	6
+	+	76	0
+
+> C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\adobe_target_recommendations.jsp
+	*	1511258680	0
+	"	34	19
+	^	51	31
+	.	51	0
+	+	52	0
+	+	52	4
+	+	52	5
+	+	52	33
+	+	52	37
+	+	52	30
+	+	52	0
+	+	27	58
+	+	50	24
+	+	50	0
+	+	52	47
+	+	52	0
+	+	57	45
+	+	27	0
+	+	50	0
+	+	50	16
+	+	27	38
+	+	50	0
+	+	50	23
+	+	27	33
+	+	50	49
+	+	27	0
+	+	27	17
+	+	50	0
+	+	45	0
+	+	49	71
+	+	49	66
+	+	49	16
+	+	27	0
+	+	27	46
+	+	49	30
+	+	57	19
+	+	61	0
+	+	57	37
+	+	27	56
+	+	49	54
+	+	57	26
+	+	27	40
+	+	49	35
+	+	27	28
+	+	49	16
+	+	49	0
+	+	49	23
+	+	57	27
+	+	44	11
+	+	45	11
+	+	44	34
+	+	44	0
+	+	45	0
+	+	50	0
+	+	27	0
+	+	28	0
+	+	34	0
+	+	35	0
+	+	29	7
+	+	30	0
+	+	31	0
+	+	32	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	49	0
+	+	57	32
+	+	49	4
+	+	46	67
+	+	63	0
+	+	64	0
+	+	44	5
+	+	41	0
+	+	44	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	57	0
+	+	54	2
+	+	57	49
+	+	56	2
+	+	55	4
+	+	27	0
+	+	26	51
+	+	49	0
+	+	47	64
+	+	55	34
+	+	57	17
+	+	60	31
+	+	49	0
+	+	47	46
+	+	57	17
+	+	60	33
+	+	48	8
+	+	55	13
+	+	57	22
+	+	47	34
+	+	51	0
+
+> ~\NERD_tree_1
+	*	1511258659	0
+	"	10	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\Adobe_target_new.md
+	*	1511252733	0
+	"	5	13
+	^	25	9
+	.	25	2
+	+	1	0
+	+	27	0
+	+	26	2
+	+	15	6
+	+	26	0
+	+	15	5
+	+	23	2
+	+	25	15
+	+	26	0
+	+	9	9
+	+	9	0
+	+	1	0
+	+	28	0
+	+	9	6
+	+	9	5
+	+	9	3
+	+	9	26
+	+	10	0
+	+	10	14
+	+	11	27
+	+	11	19
+	+	15	18
+	+	23	46
+	+	25	29
+	+	15	23
+	+	15	25
+	+	15	18
+	+	15	12
+	+	10	28
+	+	11	11
+	+	11	18
+	+	15	24
+	+	15	27
+	+	23	42
+	+	23	10
+	+	9	8
+	+	9	12
+	+	9	3
+	+	10	3
+	+	11	3
+	+	15	3
+	+	15	0
+	+	15	28
+	+	15	18
+	+	23	3
+	+	9	0
+	+	4	0
+	+	3	3
+	+	7	16
+	+	11	0
+	+	15	0
+	+	9	0
+	+	22	0
+	+	10	0
+	+	22	0
+	+	11	0
+	+	22	0
+	+	20	0
+	+	15	0
+	+	23	12
+	+	7	0
+	+	5	0
+	+	6	0
+	+	20	0
+	+	22	0
+	+	18	0
+	+	23	0
+	+	24	0
+	+	19	7
+	+	7	16
+	+	8	17
+	+	9	25
+	+	10	20
+	+	11	23
+	+	12	22
+	+	13	21
+	+	14	20
+	+	15	32
+	+	16	26
+	+	17	16
+	+	7	18
+	+	9	0
+	+	4	2
+	+	4	0
+	+	23	2
+	+	2	0
+	+	24	21
+	+	25	25
+	+	2	0
+	+	24	2
+	+	25	2
+
+> C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\adobe_target_recommendations\design_dialog.xml
+	*	1511249123	0
+	"	1	0
+
+> C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\catalog\page\page_catalog\page_catalog.jsp
+	*	1511248967	0
+	"	103	0
+
+> C:\Nishimura\pscom\workspace\NERD_tree_1
+	*	1511167062	0
+	"	29	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\Adobe_target.md
+	*	1511166325	0
+	"	19	6
+	^	26	4
+	.	18	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	2	21
+	+	26	16
+	+	22	3
+	+	21	2
+	+	20	2
+	+	4	2
+	+	10	0
+	+	21	2
+	+	19	2
+	+	22	2
+	+	7	2
+	+	16	2
+	+	4	0
+	+	3	16
+	+	6	16
+	+	19	3
+	+	20	3
+	+	21	3
+	+	22	3
+	+	23	3
+	+	24	3
+	+	25	3
+	+	26	3
+	+	16	0
+	+	8	0
+	+	21	0
+	+	9	0
+	+	21	0
+	+	11	0
+	+	19	0
+	+	15	0
+	+	20	0
+	+	12	0
+	+	20	0
+	+	13	0
+	+	22	0
+	+	14	0
+	+	22	0
+	+	17	0
+	+	20	0
+	+	18	0
+
+> C:\Nishimura\NERD_tree_1
+	*	1511166321	0
+	"	34	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\design_specifications\components\json_for_adobe_target\NERD_tree_1
+	*	1511159465	0
+	"	16	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\design_specifications\components\json_for_adobe_target\json_for_adobe_target_design.md
+	*	1511155849	0
+	"	1	0
+	.	1	0
+	+	136	14
+	+	137	34
+	+	137	0
+	+	138	0
+	+	190	2
+	+	191	0
+	+	194	0
+	+	198	0
+	+	201	5
+	+	183	0
+	+	201	0
+	+	148	19
+	+	217	7
+	+	230	0
+	+	218	0
+	+	220	62
+	+	227	13
+	+	135	54
+	+	137	29
+	+	138	12
+	+	140	0
+	+	139	23
+	+	153	53
+	+	152	20
+	+	179	10
+	+	180	7
+	+	179	14
+	+	194	20
+	+	223	28
+	+	223	0
+	+	221	32
+	+	223	0
+	+	221	32
+	+	223	0
+	+	180	13
+	+	195	16
+	+	223	7
+	+	222	10
+	+	223	0
+	+	222	10
+	+	222	70
+	+	257	0
+	+	256	14
+	+	259	0
+	+	123	47
+	+	259	0
+	+	260	0
+	+	262	0
+	+	263	0
+	+	261	0
+	+	260	50
+	+	261	45
+	+	262	69
+	+	259	62
+	+	260	43
+	+	261	41
+	+	258	11
+	+	262	70
+	+	121	60
+	+	73	51
+	+	231	31
+	+	233	0
+	+	236	0
+	+	236	13
+	+	236	38
+	+	255	0
+	+	238	34
+	+	239	0
+	+	242	0
+	+	241	5
+	+	227	35
+	+	241	71
+	+	241	140
+	+	242	59
+	+	243	14
+	+	263	0
+	+	234	0
+	+	263	30
+	+	264	0
+	+	245	21
+	+	246	0
+	+	251	17
+	+	254	0
+	+	252	0
+	+	254	21
+	+	252	0
+	+	236	6
+	+	266	18
+	+	121	60
+	+	122	0
+	+	3	11
+	+	8	0
+	+	7	0
+	+	40	0
+	+	1	0
+
+> C:\Nishimura\design_specifications\components\json_for_adobe_target\test.html
+	*	1510643476	0
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	13
+	+	1	0
+
+> C:\Nishimura\pscom\workspace\pscom-core-bundle\src\main\java\com\pscom\ui\api\Util.java
+	*	1510636075	0
+	"	133	0
+
+> C:\Nishimura\target_java.md
+	*	1510635982	0
+	"	20	0
+	^	17	40
+	.	17	37
+	+	16	0
+	+	16	35
+	+	20	0
+	+	17	37
+
+> ~\NERD_tree_2
+	*	1510635189	0
+	"	98	0
+	.	1	0
+	+	1	0
+
+> C:\Apache2\conf\httpd.conf
+	*	1510048618	0
+	"	130	0
+	^	130	1
+	.	130	0
+	+	130	0
+	+	202	11
+	+	260	0
+	+	233	22
+	+	130	0
+	+	131	0
+	+	130	0
+	+	147	0
+	+	217	2
+	+	227	12
+	+	217	1
+	+	228	0
+	+	230	12
+	+	202	0
+	+	130	0
+
+> C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\general\filter_table\NERD_tree_1
+	*	1510047446	0
+	"	11	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\pscom\workspace\ui.apps\src\main\content\jcr_root\apps\pscom\components\general\filter_table\filter_table.jsp
+	*	1510047415	0
+	"	126	99
+
+> C:\Nishimura\design_specifications\components\filter_table\test_case.md
+	*	1510042851	0
+	"	53	0
+	^	47	47
+	.	2	26
+	+	1	0
+	+	1	4
+	+	1	0
+	+	1	5
+	+	1	0
+	+	3	0
+	+	11	0
+	+	13	0
+	+	16	0
+	+	24	0
+	+	29	0
+	+	34	0
+	+	33	0
+	+	63	24
+	+	65	8
+	+	65	12
+	+	65	4
+	+	65	0
+	+	47	42
+	+	55	61
+	+	45	48
+	+	29	18
+	+	6	0
+	+	7	132
+	+	35	0
+	+	36	96
+	+	7	93
+	+	29	107
+	+	7	123
+	+	29	128
+	+	29	0
+	+	29	131
+	+	36	96
+	+	45	47
+	+	47	44
+	+	55	47
+	+	2	26
+
+> C:\Apache2\conf\httpd.comf
+	*	1510040797	0
+	"	1	0
+
+> C:\Nishimura\浅尾塾\excel-csv変換(utf-8).md
+	*	1510036164	0
+	"	10	0
+	^	10	0
+	.	9	167
+	+	2	67
+	+	5	71
+	+	2	36
+	+	5	36
+	+	6	39
+	+	8	20
+	+	6	29
+	+	8	75
+	+	9	0
+	+	3	1
+	+	6	1
+	+	8	1
+	+	9	167
+
+> C:\Nishimura\design_specifications\components\filter_table\NERD_tree_1
+	*	1510035770	0
+	"	29	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\design_specifications\components\filter_table\filter_table_design.md
+	*	1510031800	0
+	"	484	0
+
+> ~\Desktop\emmet_test.html
+	*	1510031099	0
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	0
+	+	1	28
+
+> C:\Nishimura\浅尾塾\NERD_tree_1
+	*	1509963442	0
+	"	12	0
+	.	1	0
+	+	1	0
+
+> C:\Program Files\vim\plugins\vimdoc-ja\doc\repeat.jax
+	*	1509962810	0
+	"	97	61
+
+> C:\Nishimura\浅尾塾\test.md
+	*	1509961372	0
+	"	2	0
+	^	68	0
+	.	68	0
+	+	67	12
+	+	68	0
+
+> C:\Program Files\vim\plugins\vimdoc-ja\doc\help.jax
+	*	1509961121	0
+	"	1	0
+
+> C:\Nishimura\浅尾塾\NERD_tree_2
+	*	1509961098	0
+	"	92	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\design_specifications\NERD_tree_1
+	*	1509960711	0
+	"	65	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\����m\NERD_tree_1
+	*	1509960706	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\浅尾塾\NERD_tree_3
+	*	1509960704	0
+	"	19	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\����m\test.md
+	*	1509960670	0
+	"	1	0
+	.	1	0
+	+	67	12
+	+	67	0
+	+	67	1
+	+	67	0
+	+	67	49
+	+	67	2
+	+	67	0
+	+	67	4
+	+	67	78
+	+	67	0
+	+	67	1
+	+	67	0
+	+	67	1
+	+	67	0
+	+	67	1
+	+	67	0
+	+	67	1
+	+	67	0
+	+	67	1
+	+	67	3
+	+	67	1
+	+	67	3
+	+	67	2
+	+	67	1
+	+	67	2
+	+	67	0
+	+	67	19
+	+	67	29
+	+	67	23
+	+	67	13
+	+	67	19
+	+	67	23
+	+	67	0
+	+	67	25
+	+	67	20
+	+	67	0
+	+	67	81
+	+	67	68
+	+	67	74
+	+	67	0
+	+	67	74
+	+	67	10
+	+	67	0
+	+	67	4
+	+	67	0
+	+	1	0
+
+> C:\Nishimura\����m\TUTORCOPY
+	*	1509956161	0
+	"	975	0
+	^	813	23
+	.	813	23
+	+	83	43
+	+	108	45
+	+	131	39
+	+	133	27
+	+	203	13
+	+	223	42
+	+	295	0
+	+	223	42
+	+	295	19
+	+	316	0
+	+	318	0
+	+	317	0
+	+	337	0
+	+	384	0
+	+	386	0
+	+	383	0
+	+	404	60
+	+	429	54
+	+	454	13
+	+	455	0
+	+	454	0
+	+	455	0
+	+	454	16
+	+	565	0
+	+	562	23
+	+	565	0
+	+	559	0
+	+	562	0
+	+	565	0
+	+	675	0
+	+	726	0
+	+	731	0
+	+	755	50
+	+	777	35
+	+	804	0
+	+	805	0
+	+	804	27
+	+	813	23
+
+> C:\Program Files\vim\plugins\vimdoc-ja\doc\usr_toc.jax
+	*	1509956009	0
+	"	8	13
+
+> C:\Program Files\vim\NERD_tree_1
+	*	1509953193	0
+	"	103	0
+	.	1	0
+	+	1	0
+
+> C:\Nishimura\����m\test.me
+	*	1509949749	0
+	"	1	0
+
+> C:\Program Files\vim\gvimrc
+	*	1509949087	0
+	"	37	16
+	^	66	17
+	.	66	16
+	+	67	0
+	+	66	16
+
+> C:\vim80-kaoriya-win64\gvimrc
+	*	1509946607	0
+	"	88	0
+	^	66	18
+	.	66	17
+	+	67	18
+	+	71	22
+	+	7	0
+	+	66	14
+	+	67	0
+	+	66	17
+
+> C:\vim80-kaoriya-win64\test.html
+	*	1509946109	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	6
+	+	1	0
+
+> C:\vim80-kaoriya-win64\gcimrc
+	*	1509946085	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> C:\vim80-kaoriya-win64\test.md
+	*	1509946055	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> C:\vim80-kaoriya-win64\vimrc
+	*	1509945749	0
+	"	242	0
+
+> C:\Nishimura\����m\test.html
+	*	1509945126	0
+	"	7	0
+
+> C:\Nishimura\����m\list_test.txt
+	*	1509945052	0
+	"	1	0
+
+> ~\a.html
+	*	1509944759	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	1	10
+	+	3	0
