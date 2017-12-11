@@ -1,0 +1,37 @@
+if !has('gui_running')
+  finish
+endif
+
+"カラースキーマの設定
+colorscheme iceberg
+set background=dark
+
+"透過設定
+autocmd GUIEnter * set transparency=210
+
+"最大化起動
+au GUIEnter * simalt ~x
+
+"フォントの設定
+set guifont=MyricaM_M:h12
+
+" メニューバーを非表示にする
+set guioptions-=m
+
+" ツールバーを非表示にする
+set guioptions-=T
+
+" 左右のスクロールバーを非表示にする
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
+
+" 水平スクロールバーを非表示にする
+set guioptions-=b
+
+"ビープ音を無効にする
+set visualbell t_vb=
+
+"どのモードでもマウスを利用できるようにする
+set mouse=a
